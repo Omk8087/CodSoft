@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+.calc{
+    padding-top: 2rem;
+    border: 5px solid rgb(0, 162, 255);
+    margin: 0% 30%;
+}
+#result{
+    text-align: right;
+    border-radius: 10px;
+    font-size: 30px;
+    height: 40px;
+    width: 30rem;
+    margin: 0px;
+    border: 2px solid black;
+}
+.container{    
+    padding: 30px 0px;
+    text-align: center; 
+}
+
+.row{
+    margin: 20px 0px;
+}
+.btn{
+    padding: 15px 42px;
+    margin: 10px 10px;
+    border: 2px solid black;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgb(142, 142, 194);
+    color: white;
+}
